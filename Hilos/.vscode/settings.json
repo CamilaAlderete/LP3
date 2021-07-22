@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "sched.h": "c",
-        "pthread.h": "c",
-        "stdio.h": "c",
-        "stdbool.h": "c"
-    }
-}
