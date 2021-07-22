@@ -27,7 +27,7 @@ int rojos_en_espera=0;
 int turno_blanco = 0;
 int turno_rojo=0;
 
-//codigo del emoji..... para guardar en una variable
+//codigo del emoji..... para guardar
 //🤺
 char* emoji_blanco = "\360\237\244\272\0";
 
